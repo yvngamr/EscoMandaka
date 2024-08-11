@@ -6,7 +6,7 @@
 
   */
 
-@import url('https://fonts.googleapis.com/css2?family=Quattrocento:wght@400;700&display=swap');
+@import url(https://fonts.googleapis.com/css2?family=Quattrocento:wght@400;700&display=swap);
   @import url(//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css);
 
 
@@ -40,7 +40,7 @@
   /* ----- =logo ----- */
 
   header h1 {
-    font-family: 'Quattrocento Sans', sans-serif;
+    font-family: 'Quattrocento', serif;
     font-size: 40px;
     float: left;
     padding-top: 50px;
@@ -67,7 +67,7 @@
     margin-right: 40px;
     font-size: 18px;
     color: #8f99a4;
-    font-family: Quattrocento, sans-serif;
+    font-family: 'Quattrocento', serif;
 
   }
 
@@ -137,18 +137,18 @@
   /* ----- =type ----- */
 
   h2 {
-    font-family: Quattrocento, sans-serif;
+    font-family: 'Quattrocento', serif;
     font-size: 40px;
-    color: #8f99a4;
+    color: #777;
   }
   h3 {
-    font-family: Quattrocento, sans-serif;
+    font-family: 'Quattrocento', serif;
     font-size: 35px;
-    color: #363636;
+    color: #777;
   }
   p {
-    font-family: Quattrocento Sans, sans-serif;
-    font-size: 24px;
+    font-family: 'Quattrocento', serif;
+    font-size: 23px;
     line-height: 28px;
     color: #777;
   }
