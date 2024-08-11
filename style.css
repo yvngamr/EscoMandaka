@@ -13,7 +13,7 @@
   /* ----- =structure ----- */
 
   body {
-    background-color: #fff;
+    background-color: #f5f5f5;
     margin: 0;
     font-family: 'Quattrocento', serif;
   }
@@ -65,7 +65,7 @@
   nav a {
     text-decoration: none;
     margin-right: 40px;
-    font-size: 18px;
+    font-size: 25px;
     color: #8f99a4;
     font-family: 'Quattrocento', serif;
 
